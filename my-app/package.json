@@ -10,7 +10,13 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.2",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "react-scroll": "^1.8.8",
+    "counter": "^0.1.1",
+    "framer-motion": "^7.6.1",
+    "number": "^0.0.1",
+    "number-counter": "^1.0.3",
+    "styled-components": "^5.3.6"
   },
   "scripts": {
     "start": "react-scripts start",
